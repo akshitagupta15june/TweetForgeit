@@ -1,4 +1,4 @@
-# TweetForge: AI-Powered Twitter Content Creator
+# TweetForgeit: AI-Powered Twitter Content Creator
 
 TweetForge is a Python script designed to enhance your Twitter experience by automating the generation and posting of tweets. Leveraging the power of OpenAI's GPT-3 and Tweepy, this project showcases the seamless integration of natural language generation with the Twitter API for creative and engaging content creation.
 
